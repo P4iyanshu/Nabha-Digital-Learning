@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Login from "./components/Login";
+import Login from "./components/login";
 import StudentDashboard from "./components/StudentDashboard";
 import TeacherDashboard from "./components/TeacherDashboard";
 
