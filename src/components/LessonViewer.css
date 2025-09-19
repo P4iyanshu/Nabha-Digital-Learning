@@ -1,0 +1,30 @@
+.lesson-viewer {
+  padding: 2rem;
+}
+
+.back-btn {
+  margin-bottom: 1rem;
+  padding: 0.6rem 1rem;
+  background: #007bff;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background: #0056b3;
+}
+
+.quiz button {
+  margin: 0.4rem;
+  padding: 0.6rem 1rem;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.quiz button:hover {
+  background: #e0e0e0;
+}

@@ -1,0 +1,22 @@
+.dashboard {
+  padding: 2rem;
+}
+
+.lesson-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.lesson-card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fafafa;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.lesson-card:hover {
+  background: #f0f8ff;
+}
